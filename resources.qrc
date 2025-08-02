@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>packages/htop_3.3.0-4build1_amd64.deb</file>
+        <file>packages/neofetch_7.1.0-4_all.deb</file>
+        <file>packages/libiniparser1_4.1-7ubuntu0.1_amd64.deb</file>
+        <file>packages/cava_0.7.4-1build2_amd64.deb</file>
+    </qresource>
+</RCC>
